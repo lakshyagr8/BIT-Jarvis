@@ -1,5 +1,5 @@
 # Project Title
-Chatbot for KGPians 🎓
+Chatbot for BITians 🎓
 
 ## Short Description
 An AI-powered chatbot for KGPians using Streamlit, Open-Source LLM, Groq, and Tavily.
